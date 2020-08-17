@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**JakeCodes/JakeCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +11,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://jakecodes.com
 - 😄 Pronouns: Passinate, Great Oral Skills
 - ⚡ Fun fact: I started to code when i was 13
--->
