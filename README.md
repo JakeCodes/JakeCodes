@@ -1,4 +1,4 @@
-# Meet Jake👋
+# Hi I'm Jake👋
 
 
 - 🔭 I’m currently working at home
